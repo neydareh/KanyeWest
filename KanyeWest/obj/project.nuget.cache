@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gqnSwtNgYMZWsoS5i9IudVh0zmU5+koR+uCvjgtcJLsANVSmxOrgocwSHcwvSlz+AbwNhKS7sYILmUBNOfITiQ==",
+  "dgSpecHash": "wNc6X2kLiM2w6tGRFEvW83qzyDbCOd5ZA2xPm9Ns6o3iN2W6EmzHXh2k5z2GDar9/rpDYQZov2XVwKTsAsBUyw==",
   "success": true,
   "projectFilePath": "F:\\TrueCoders\\repos\\KanyeWest\\KanyeWest\\KanyeWest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

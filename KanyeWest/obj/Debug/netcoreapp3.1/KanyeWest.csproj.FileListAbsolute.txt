@@ -1,0 +1,4 @@
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.exe
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csprojAssemblyReference.cache
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfoInputs.cache
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfo.cs

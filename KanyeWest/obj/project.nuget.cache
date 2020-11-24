@@ -1,10 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "wNc6X2kLiM2w6tGRFEvW83qzyDbCOd5ZA2xPm9Ns6o3iN2W6EmzHXh2k5z2GDar9/rpDYQZov2XVwKTsAsBUyw==",
+  "dgSpecHash": "svw5TEKUf34R1cFr0aTtJbHQZvMx9IuXsq/xWQfFuwj2c25xbj3dljd0TUOQDMYo8xVtMj5s5TSvqXVVRGXl8g==",
   "success": true,
   "projectFilePath": "F:\\TrueCoders\\repos\\KanyeWest\\KanyeWest\\KanyeWest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\baselinetypediscovery\\1.1.0\\baselinetypediscovery.1.1.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\lamar\\4.4.0\\lamar.4.4.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\lamarcodegeneration\\2.5.0\\lamarcodegeneration.2.5.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\Olakunle Neye\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,5 +1,8 @@
 ﻿using System;
 using KanyeWest.KanyeAPI;
+using KanyeWest.RonSwansonAPI;
+using Lamar;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace KanyeWest
 {
@@ -7,7 +10,7 @@ namespace KanyeWest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Kanye.CallKanyeAPI());
+            
         }
     }
 }

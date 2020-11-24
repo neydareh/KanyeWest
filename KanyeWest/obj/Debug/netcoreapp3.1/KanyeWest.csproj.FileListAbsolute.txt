@@ -8,8 +8,12 @@ F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtim
 F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.dll
 F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.pdb
 F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CoreCompileInputs.cache
 F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CopyComplete
 F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.dll
 F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.pdb
 F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.genruntimeconfig.cache
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\BaselineTypeDiscovery.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Lamar.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\LamarCodeGeneration.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CoreCompileInputs.cache

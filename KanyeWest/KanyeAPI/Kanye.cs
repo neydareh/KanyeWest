@@ -3,9 +3,9 @@ using System.Net.Http;
 
 namespace KanyeWest.KanyeAPI
 {
-    public static class Kanye
+    public class Kanye
     {
-        public static string CallKanyeAPI()
+        public string CallKanyeAPI()
         {
             var client = new HttpClient();
             string urlKanye = "https://api.kanye.rest";

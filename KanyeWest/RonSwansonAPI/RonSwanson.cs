@@ -15,8 +15,6 @@ namespace KanyeWest.RonSwansonAPI
             var ronSwansonResponse = JArray.Parse(ronSwansonAPIResponse).ToString()
                 .Replace("[", "").Replace("]", "")
                 .Trim().Trim('\"');
-
-            //Console.WriteLine("Response: " + client.GetStringAsync(urlRonSwanson));
             return ronSwansonResponse;
         }
     }

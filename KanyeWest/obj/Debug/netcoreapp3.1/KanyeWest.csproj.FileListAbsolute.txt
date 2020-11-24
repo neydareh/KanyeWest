@@ -16,4 +16,8 @@ F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\BaselineTypeDisc
 F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Lamar.dll
 F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\LamarCodeGeneration.dll
 F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\RestSharp.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CoreCompileInputs.cache

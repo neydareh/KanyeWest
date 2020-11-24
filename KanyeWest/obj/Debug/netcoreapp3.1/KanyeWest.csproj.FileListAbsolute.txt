@@ -2,3 +2,14 @@ F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.exe
 F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csprojAssemblyReference.cache
 F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfoInputs.cache
 F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfo.cs
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.deps.json
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtimeconfig.json
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtimeconfig.dev.json
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.pdb
+F:\TrueCoders\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CoreCompileInputs.cache
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CopyComplete
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.dll
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.pdb
+F:\TrueCoders\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.genruntimeconfig.cache
